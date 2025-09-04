@@ -1,2 +1,1 @@
-# MusicEncounterUnityGameProject
-The author wants to explore the interactive and social experience that music and sound can bring to people through games. Music Encounter is a third-person 3D open world social adventure game set in a fantasy musical world. The player will meet new friends and explore the world with them or on their own.
+Project 2 for COP3530, Data Structures and Algorithms. Consists of an AVL tree and three binary search trees. The BSTs differ in where newly added elements are positioned (to a leaf, to the root, or random location). Test files were made for the debugging process. 
