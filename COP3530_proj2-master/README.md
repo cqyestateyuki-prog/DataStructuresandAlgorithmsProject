@@ -1,0 +1,4 @@
+# COP3530_proj2
+Project 2 for COP3530, Data Structures and Algorithms. Consists of an AVL tree and three binary search trees. The BSTs differ in where newly added elements are positioned (to a leaf, to the root, or random location). Test files were made for the debugging process. 
+
+Written entirely in C++. 
